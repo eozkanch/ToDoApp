@@ -1,6 +1,7 @@
 <h1>My To Do List</h1>
 
-<img src="/todo/src/project.jpeg" witdth ="400px>
+
+<img src="/todo/src/project.jpeg" witdth ="400px">
 
 <h3>Description</h3>
 
@@ -21,7 +22,7 @@ Bootstrap: Preferred framework for quick and stylish design.
 Material-UI: Used to customize the style of certain components and provide a modern look to the user interface.
 API Integration: Integration with an MockAPI for data storage and management.
 
-<h3>Installation/h3>
+<h3>Installation</h3>
 
 Clone the project repository to your local machine.
 Navigate to the cloned directory: cd project-directory
