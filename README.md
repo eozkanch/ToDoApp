@@ -1,6 +1,6 @@
 <h1>My To Do List</h1>
 
-<img src="/todo//src/project.jpeg" witdth ="400px>
+<img src="/todo/src/project.jpeg" witdth ="400px>
 
 <h3>Description</h3>
 
